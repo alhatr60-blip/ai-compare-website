@@ -57,4 +57,4 @@ PORT=5000
     ```bash
     npm start
     ```
-3.  The server will start on the port defined in your `.env` file (e.g., `http://localhost:5000`).
+3.  The server will start on the port defined in your `.env` file (e.g., `http://localhost:5173`).
